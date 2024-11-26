@@ -45,9 +45,9 @@ Este projeto é um simulador de alocação de blocos de memória em disco, imple
 3. Executar o Programa
    - Abra o terminal na pasta do projeto.
    - Execute o seguinte comando:
-     python disk_simulator.py
+     python simulator.py
      Ou, caso necessário:
-     python3 disk_simulator.py
+     python3 simulator.py
 
 4. A interface gráfica será exibida, pronta para uso.
 
